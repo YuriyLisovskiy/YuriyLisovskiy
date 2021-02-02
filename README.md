@@ -32,6 +32,9 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuriylisovskiy&" alt="yuriylisovskiy" />
     <img src="https://github-readme-stats.vercel.app/api?username=yuriylisovskiy&show_icons=true&locale=en" alt="yuriylisovskiy" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuriylisovskiy&" alt="yuriylisovskiy" />
 </p>
