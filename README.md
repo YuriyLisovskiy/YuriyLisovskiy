@@ -9,9 +9,9 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuriylisovskiy&no-bg=true&no-frame=true&margin-w=10&margin-h=10&row=10&column=7" alt="yuriylisovskiy" /></a>
 </p>
 
-- 🔭 I’m currently working on **C++ Web Framework**
+- 🔭 I’m currently working on simple **programming language**
 
-- 🏃 I’m interested in **C/C++, Linux, Docker**
+- 🏃 I’m interested in **C++, Go, Linux, Docker**
 
 - 👨‍💻 All of my projects are available at [github.com](https://github.com/YuriyLisovskiy)
 
