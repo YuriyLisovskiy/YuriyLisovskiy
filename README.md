@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuriy Lisovskiy</h1>
 <h3 align="center">A passionate developer from Ukraine</h3>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=yuriylisovskiy&label=Profile%20views&color=0e75b6&style=flat"
-         alt="yuriylisovskiy"/>
-</p>
+<a href="https://u8views.com/github/YuriyLisovskiy"><img src="https://u8views.com/api/v1/github/profiles/25670632/views/day-week-month-total-count.svg"></a>
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img
